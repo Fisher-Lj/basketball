@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>上饶</key>
+	<string>101240301</string>
+	<key>九江</key>
+	<string>101240201</string>
+	<key>南昌</key>
+	<string>101240101</string>
+	<key>吉安</key>
+	<string>101240601</string>
+	<key>宜春</key>
+	<string>101240501</string>
+	<key>抚州</key>
+	<string>101240401</string>
+	<key>新余</key>
+	<string>101241001</string>
+	<key>景德镇</key>
+	<string>101240801</string>
+	<key>萍乡</key>
+	<string>101240901</string>
+	<key>赣州</key>
+	<string>101240701</string>
+	<key>鹰潭</key>
+	<string>101241101</string>
+</dict>
+</plist>

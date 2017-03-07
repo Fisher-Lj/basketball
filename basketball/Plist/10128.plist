@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>东莞</key>
+	<string>101281601</string>
+	<key>中山</key>
+	<string>101281701</string>
+	<key>云浮</key>
+	<string>101281401</string>
+	<key>佛山</key>
+	<string>101280800</string>
+	<key>广州</key>
+	<string>101280101</string>
+	<key>德庆</key>
+	<string>101280905</string>
+	<key>惠州</key>
+	<string>101280301</string>
+	<key>揭阳</key>
+	<string>101281901</string>
+	<key>梅州</key>
+	<string>101280401</string>
+	<key>汕头</key>
+	<string>101280501</string>
+	<key>汕尾</key>
+	<string>101282101</string>
+	<key>江门</key>
+	<string>101281101</string>
+	<key>河源</key>
+	<string>101281201</string>
+	<key>深圳</key>
+	<string>101280601</string>
+	<key>清远</key>
+	<string>101281301</string>
+	<key>湛江</key>
+	<string>101281001</string>
+	<key>潮州</key>
+	<string>101281501</string>
+	<key>珠海</key>
+	<string>101280701</string>
+	<key>肇庆</key>
+	<string>101280901</string>
+	<key>茂名</key>
+	<string>101282001</string>
+	<key>阳江</key>
+	<string>101281801</string>
+	<key>韶关</key>
+	<string>101280201</string>
+</dict>
+</plist>

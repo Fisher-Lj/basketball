@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>六安</key>
+	<string>101221501</string>
+	<key>合肥</key>
+	<string>101220101</string>
+	<key>安庆</key>
+	<string>101220601</string>
+	<key>宣城</key>
+	<string>101221401</string>
+	<key>宿州</key>
+	<string>101220701</string>
+	<key>巢湖</key>
+	<string>101221601</string>
+	<key>毫州</key>
+	<string>101220901</string>
+	<key>池州</key>
+	<string>101221701</string>
+	<key>淮北</key>
+	<string>101221201</string>
+	<key>淮南</key>
+	<string>101220401</string>
+	<key>滁州</key>
+	<string>101221101</string>
+	<key>芜湖</key>
+	<string>101220301</string>
+	<key>蚌埠</key>
+	<string>101220201</string>
+	<key>铜陵</key>
+	<string>101221301</string>
+	<key>阜阳</key>
+	<string>101220801</string>
+	<key>马鞍山</key>
+	<string>101220501</string>
+</dict>
+</plist>

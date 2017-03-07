@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>吉首</key>
+	<string>101251501</string>
+	<key>娄底</key>
+	<string>101250801</string>
+	<key>岳阳</key>
+	<string>101251001</string>
+	<key>常德</key>
+	<string>101250601</string>
+	<key>张家界</key>
+	<string>101251101</string>
+	<key>怀化</key>
+	<string>101251201</string>
+	<key>株洲</key>
+	<string>101250301</string>
+	<key>永州</key>
+	<string>101251401</string>
+	<key>湘潭</key>
+	<string>101250201</string>
+	<key>益阳</key>
+	<string>101250701</string>
+	<key>衡阳</key>
+	<string>101250401</string>
+	<key>邵阳</key>
+	<string>101250901</string>
+	<key>郴州</key>
+	<string>101250501</string>
+	<key>长沙</key>
+	<string>101250101</string>
+	<key>韶山</key>
+	<string>101250202</string>
+</dict>
+</plist>

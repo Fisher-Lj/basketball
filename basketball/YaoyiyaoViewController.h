@@ -1,0 +1,13 @@
+//
+//  YaoyiyaoViewController.h
+//  basketball
+//
+//  Created by qianfeng on 15/5/2.
+//  Copyright (c) 2015年 qianfeng. All rights reserved.
+//
+
+#import "fatherViewController.h"
+
+@interface YaoyiyaoViewController : fatherViewController
+
+@end

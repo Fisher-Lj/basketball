@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>乐山</key>
+	<string>101271401</string>
+	<key>内江</key>
+	<string>101271201</string>
+	<key>凉山</key>
+	<string>101271601</string>
+	<key>南充</key>
+	<string>101270501</string>
+	<key>宜宾</key>
+	<string>101271101</string>
+	<key>巴中</key>
+	<string>101270901</string>
+	<key>广元</key>
+	<string>101272101</string>
+	<key>广安</key>
+	<string>101270801</string>
+	<key>德阳</key>
+	<string>101272001</string>
+	<key>成都</key>
+	<string>101270101</string>
+	<key>攀枝花</key>
+	<string>101270201</string>
+	<key>泸州</key>
+	<string>101271001</string>
+	<key>甘孜州</key>
+	<string>101271801</string>
+	<key>眉山</key>
+	<string>101271501</string>
+	<key>绵阳</key>
+	<string>101270401</string>
+	<key>自贡</key>
+	<string>101270301</string>
+	<key>资阳</key>
+	<string>101271301</string>
+	<key>达州</key>
+	<string>101270601</string>
+	<key>遂宁</key>
+	<string>101270701</string>
+	<key>阿坝</key>
+	<string>101271901</string>
+	<key>雅安</key>
+	<string>101271701</string>
+</dict>
+</plist>

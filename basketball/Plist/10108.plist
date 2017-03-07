@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>乌海</key>
+	<string>101080301</string>
+	<key>包头</key>
+	<string>101080201</string>
+	<key>呼伦贝尔</key>
+	<string>101081000</string>
+	<key>呼和浩特</key>
+	<string>101080101</string>
+	<key>海拉尔</key>
+	<string>101081001</string>
+	<key>赤峰</key>
+	<string>101080601</string>
+	<key>通辽</key>
+	<string>101080501</string>
+	<key>鄂尔多斯</key>
+	<string>101080701</string>
+	<key>锡林浩特</key>
+	<string>101080901</string>
+</dict>
+</plist>
